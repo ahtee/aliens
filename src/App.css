@@ -5,3 +5,9 @@
 .row {
   display: flex;
 }
+
+.column {
+  flex: 50%;
+  height:100vh;
+  background-color: #90EE90;;
+}

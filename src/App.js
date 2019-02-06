@@ -2,6 +2,7 @@ import React, { Component } from 'react';
 import './App.css';
 import StaticColumn from './StaticColumn';
 import EmojiColumn from './EmojiColumn';
+import Footer from './Footer.js';
 
 
 class App extends Component {
@@ -12,6 +13,7 @@ class App extends Component {
           <StaticColumn />
           <EmojiColumn />
         </div>
+        <Footer />
       </div>
     );
   }

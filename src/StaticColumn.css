@@ -1,0 +1,15 @@
+.staticGif {
+    background-image: url('https://media.giphy.com/media/d9zdrVleeAc0g/giphy.gif');
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+    background-repeat: no-repeat;
+    min-height: 100%;
+    width: 50%;
+}
+
+.column {
+    flex: 50%;
+    height:100vh;
+    background-color: #333333;
+  }

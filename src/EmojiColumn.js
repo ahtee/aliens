@@ -5,8 +5,8 @@ import alienIcon from './images/ios-alien.png';
 class EmojiColumn extends Component {
     render() {
       return (
-        <div className="column emoji">
-            <img src={alienIcon} alt="alien" className="alien"/>
+        <div className="column">
+            <img src={alienIcon} alt="alien" className="alien-center-image"/>
         </div>
       );
     }

@@ -7,3 +7,9 @@
     min-height: 100%;
     width: 50%;
 }
+
+.total-center-image {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
